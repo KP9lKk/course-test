@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">course</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TitleOnBoarding">Тысячи курсов \nв одном месте</string>
+    <string name="Continue">Продолжить</string>
+    <string name="CoursesImage">CoursesImage</string>
+    <string name="LogIn">Вход</string>
+    <string name="email">Email</string>
+    <string name="hint_email">example@gmail.com</string>
+    <string name="Password">Пароль</string>
+    <string name="PasswordHint">Введите пароль</string>
+    <string name="login_to_registration">Нету аккаунта? Регистрация</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="icon_vk">Icon VK</string>
+    <string name="icon_odnoklassniki">Icon Odnoklassniki</string>
+    <string name="main">Главная</string>
+    <string name="favorite">Избранное</string>
+    <string name="account">Аккаунт</string>
+    <string name="search_field_hint">Search courses...</string>
+    <string name="filter">Фильтер</string>
+    <string name="filter_desc">По дате добавления</string>
+    <string name="About">Подробнее</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/main_action"
+    android:icon="@drawable/ic_house"
+    android:title="@string/main" />
+    <item
+        android:icon="@drawable/ic_bookmark"
+        android:id="@+id/favorite_action"
+        android:title="@string/favorite" />
+    <item
+        android:icon="@drawable/ic_person"
+        android:id="@+id/account_action"
+        android:title="@string/account" />
+</menu>
